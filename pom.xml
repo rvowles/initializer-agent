@@ -27,7 +27,7 @@
     </dependency>
     <dependency>
       <groupId>com.bluetrainsoftware.common</groupId>
-      <artifactId>common-agent-loader</artifactId>
+      <artifactId>agent-loader</artifactId>
       <version>[1,2)</version>
     </dependency>
     <dependency>
