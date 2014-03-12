@@ -8,7 +8,7 @@
   </parent>
   <groupId>com.bluetrainsoftware.bathe.initializers</groupId>
   <artifactId>agent-initializer</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>Agent Initializer</name>
   <description>Bathe Initializer for loading Dynamic Instrumentation Agents</description>
@@ -43,8 +43,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
-  <scm>
-    <tag>agent-initializer-1.1</tag>
-  </scm>
 </project>
